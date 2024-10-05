@@ -26,8 +26,8 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+//💌global.pairingNumber = "919735261779" //put your bot number here💌
+global.mods = ['994407122025'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -118,22 +118,22 @@ global.princeImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/message/4V3RLBO5HRWZB1' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '★★𝗥𝐀𝐉-𝐁𝐎𝐓-𝐎𝐅𝐂★★'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
+global.author = 'RAJ-BOT-OFC\n+994407122025' 
+global.princeig = 'https://instagram.com/i_am_your_raj_kumar' 
+global.princegp = 'https://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B'
+global.menuvid = 'https://telegra.ph/file/7e2bcd008f2ba3a7a4c98.mp4'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://telegra.ph/file/fe01b578f73294993cdd2.jpg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
